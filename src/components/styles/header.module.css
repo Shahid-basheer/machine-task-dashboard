@@ -1,0 +1,60 @@
+
+#headerContainerRow{
+display: flex;
+flex-direction: row;
+width: 100%;
+height: 10rem;
+justify-content: space-between;
+align-items: center;
+padding-right: 5rem;
+}
+#headerContainerColumn{
+display: flex;
+flex-direction: column;
+width: 100%;
+height: 10rem;
+justify-content: space-between;
+padding-right: 5rem;
+}
+
+#headerSelection{
+    width: 13rem;
+    height: 2.5rem;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 20px gray;
+    color: black;
+}
+
+
+#headerSelection img{
+width: 2rem;
+height: 2rem;
+}
+
+#profileContainer{
+    display: flex;
+    height: 3rem;
+    gap: 4px;
+}
+
+#headerArrow{
+    padding-top: 0.6rem;
+    width: 3rem;
+    height: 2.5rem;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 0 20px gray;
+}
+#headerArrow :hover{
+    cursor: pointer;
+    color: gray;
+}
+#headerLogo{
+    width: 0;
+    height: 0;
+    border-top: 10rem solid #fff;
+    border-right: 10rem solid transparent;
+    border-left: 15rem solid #fff;
+}

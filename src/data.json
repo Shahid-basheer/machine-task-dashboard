@@ -1,0 +1,24 @@
+{
+    "menubar": [
+        {
+            "key":"Dashboard",
+            "icon":"FaFlipboard"
+        },
+        {
+            "key":"Perks",
+            "icon":"FaFan"
+        },
+        {
+            "key":"Addons",
+            "icon":"FaPazzlePiece"
+        },
+        {
+            "key":"FAQ",
+            "icon":"FaCircleQuestion"
+        },
+        {
+            "key":"Support",
+            "icon":"FaCircleInfo"
+        }
+    ]
+}
