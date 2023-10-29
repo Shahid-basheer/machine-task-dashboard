@@ -12,7 +12,7 @@
 width: 15rem;
 height: 10rem;
 padding: 1rem;
-box-shadow:1px 1px 4px gray;
+box-shadow:-1px 2px 12px #d8dce3;
 text-align: center;
 }
 #menubarMenuList{

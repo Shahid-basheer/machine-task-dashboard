@@ -67,4 +67,5 @@
 }
 #cardsContainer{
     padding: 3rem;
+    box-shadow: -3px 2px 10px #d8dce3;
 }

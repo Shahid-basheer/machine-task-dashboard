@@ -2,7 +2,7 @@
     min-width: 20rem;
     height: 20rem;
     background-color: #fff;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 7px 6px 21px 1px #d8dce3;
     border-radius: 10px;
     padding: 1rem;
 }
@@ -13,7 +13,7 @@
     background-color: #fff;
     border-radius: 10px;
     padding: 1rem;
-    box-shadow: 1px 1px 10px gray;
+    box-shadow:7px 9px 10px #d8dce3;
     display: flex;
 }
 .strikePrice {
